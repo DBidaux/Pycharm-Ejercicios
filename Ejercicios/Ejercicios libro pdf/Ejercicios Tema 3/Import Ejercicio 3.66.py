@@ -1,0 +1,11 @@
+a = 4.0
+a_minus = 3.7
+b_plus = 3.3
+b = 3.0
+b_minus = 2.7
+c_plus = 2.3
+c = 2.0
+c_minus = 1.7
+d_plus = 1.3
+d = 1.0
+f = 0

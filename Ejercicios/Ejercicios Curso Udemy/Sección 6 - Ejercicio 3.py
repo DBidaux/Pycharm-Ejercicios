@@ -1,0 +1,13 @@
+conjunto = {1, 2, 3, 4, 5}
+print(conjunto)
+conjunto.add(6)
+print(conjunto)
+conjunto.add(7)
+print(conjunto)
+conjunto.add(8)
+print(conjunto)
+conjunto.add(9)
+print(conjunto)
+conjunto.remove(9)
+print(conjunto)
+print(type(conjunto))
